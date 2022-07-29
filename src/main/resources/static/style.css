@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+nav
+{
+	background-color:#317873;
+	opacity: 0.8;
+}
+body
+{
+	background-color: none;
+}
+thead.table-th
+{
+		color: white;
+	background-color: #008080;
+}
+
+td
+{
+	text-align:center;
+}
+.bt1
+{
+	background-color: #008080;
+	color: #dbdbdb;
+}
+.bt2
+{
+	background-color: #009f9f;
+	color: #dbdbdb;
+}
